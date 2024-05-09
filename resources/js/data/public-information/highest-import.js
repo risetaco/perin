@@ -1,0 +1,92 @@
+export const highestImport = [
+  {
+    hs: "89019036",
+    rowSpan: 3,
+    country: "China",
+    percentage: "27.66",
+  },
+  {
+    hs: undefined,
+    rowSpan: undefined,
+    country: "Jepang",
+    percentage: "21.68",
+  },
+  {
+    hs: undefined,
+    rowSpan: undefined,
+    country: "Singapura",
+    percentage: "14.29",
+  },
+  {
+    hs: "89012080",
+    rowSpan: 3,
+    country: "Korea Selatan",
+    percentage: "0,5021",
+  },
+  {
+    hs: undefined,
+    rowSpan: undefined,
+    country: "Jepang",
+    percentage: "0,1827",
+  },
+  {
+    hs: undefined,
+    rowSpan: undefined,
+    country: "Niue",
+    percentage: "0,1047",
+  },
+  {
+    hs: "89012071",
+    rowSpan: 3,
+    country: "Korea Selatan",
+    percentage: "0,2704",
+  },
+  {
+    hs: undefined,
+    rowSpan: undefined,
+    country: "Panama",
+    percentage: "0,1987",
+  },
+  {
+    hs: undefined,
+    rowSpan: undefined,
+    country: "Malaysia",
+    percentage: "0,1443",
+  },
+  {
+    hs: "89069090",
+    rowSpan: 3,
+    country: "Belanda",
+    percentage: "0,5354",
+  },
+  {
+    hs: undefined,
+    rowSpan: undefined,
+    country: "Korea Selatan",
+    percentage: "0,1782",
+  },
+  {
+    hs: undefined,
+    rowSpan: undefined,
+    country: "Singapura",
+    percentage: "0,1638",
+  },
+  {
+    hs: "89012050",
+    rowSpan: 3,
+    country: "Jepang",
+    percentage: "0,3876",
+  },
+  {
+    hs: undefined,
+    rowSpan: undefined,
+    country: "Niue",
+    percentage: "0,1454",
+  },
+  {
+    hs: undefined,
+    rowSpan: undefined,
+    country: "Singapura",
+    percentage: "0,1424",
+  },
+];

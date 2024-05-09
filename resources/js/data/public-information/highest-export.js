@@ -1,0 +1,92 @@
+export const highestExport = [
+  {
+    hs: "89052000",
+    rowSpan: 3,
+    country: "Senegal",
+    percentage: "39,07",
+  },
+  {
+    hs: undefined,
+    rowSpan: undefined,
+    country: "Denmark",
+    percentage: "38,26",
+  },
+  {
+    hs: undefined,
+    rowSpan: undefined,
+    country: "Qatar",
+    percentage: "17,18",
+  },
+  {
+    hs: "89019036",
+    rowSpan: 3,
+    country: "Singapura",
+    percentage: "56,15",
+  },
+  {
+    hs: undefined,
+    rowSpan: undefined,
+    country: "Jerman",
+    percentage: "18,11",
+  },
+  {
+    hs: undefined,
+    rowSpan: undefined,
+    country: "Hongkong",
+    percentage: "10,56",
+  },
+  {
+    hs: "89019034",
+    rowSpan: 3,
+    country: "Malaysia",
+    percentage: "41,14",
+  },
+  {
+    hs: undefined,
+    rowSpan: undefined,
+    country: "Singapura",
+    percentage: "31,56",
+  },
+  {
+    hs: undefined,
+    rowSpan: undefined,
+    country: "Belanda",
+    percentage: "25,03",
+  },
+  {
+    hs: "89011020",
+    rowSpan: 3,
+    country: "Singapura",
+    percentage: "78,16",
+  },
+  {
+    hs: undefined,
+    rowSpan: undefined,
+    country: "Australia",
+    percentage: "9,95",
+  },
+  {
+    hs: undefined,
+    rowSpan: undefined,
+    country: "Malaysia",
+    percentage: "6,43",
+  },
+  {
+    hs: "89019032",
+    rowSpan: 3,
+    country: "Singapura",
+    percentage: "75,94",
+  },
+  {
+    hs: undefined,
+    rowSpan: undefined,
+    country: "Bangladesh",
+    percentage: "6,55",
+  },
+  {
+    hs: undefined,
+    rowSpan: undefined,
+    country: "Kepulauan Marshall",
+    percentage: "5,73",
+  },
+];
